@@ -1,0 +1,7 @@
+table { width: 100%; } 
+td {text-align: right; }
+
+/*偶数行目の背景を着色*/
+tr:nth-child(odd){
+  background-color: cornsilk;
+}
